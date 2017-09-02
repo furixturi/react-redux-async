@@ -6,7 +6,7 @@ import {
     selectSubreddit,
     fetchPostsIfNeeded,
     invalidateSubreddit
-} from '../actions';
+} from '../actions/actions';
 import Picker from '../components/Picker';
 import Posts from '../components/Posts';
 
